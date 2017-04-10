@@ -1,0 +1,9 @@
+Header,section,aside,footer{
+  background: silver;
+
+}
+@media screen and (max-width:768px){
+  header,section,aside,footer{
+    background: black; 
+  }
+}
